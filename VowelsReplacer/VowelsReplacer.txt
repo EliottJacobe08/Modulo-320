@@ -1,0 +1,14 @@
+public class VowelsReplacer {
+	public static void main (String[] args) {
+	
+		String word = args[0];
+		String oldVowel = args[1];
+		String newVowel = args[2];
+		
+		String replaceword = word.replace(oldVowel, newVowel);
+		System.out.println("The word " + word + " has been changed to " + replacedWord);
+		
+	}
+}
+
+
