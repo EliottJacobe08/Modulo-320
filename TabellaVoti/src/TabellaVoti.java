@@ -1,7 +1,9 @@
 public class TabellaVoti {
-    public class registro {
-        String[] studenti;
-        double[][] voti;
-    }
 
+    public String[] studenti;
+    public double[][] voti;
+
+    public float inserisciVoti() {
+
+    }
 }
