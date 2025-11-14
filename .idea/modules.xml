@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassePunto/ClassePunto.iml" filepath="$PROJECT_DIR$/ClassePunto/ClassePunto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClasseTemperatura/ClasseTemperatura.iml" filepath="$PROJECT_DIR$/ClasseTemperatura/ClasseTemperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collatz/Collatz.iml" filepath="$PROJECT_DIR$/Collatz/Collatz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esempio/Esempio.iml" filepath="$PROJECT_DIR$/Esempio/Esempio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Garage/Garage.iml" filepath="$PROJECT_DIR$/Garage/Garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Indovina/Indovina.iml" filepath="$PROJECT_DIR$/Indovina/Indovina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libro/Libro.iml" filepath="$PROJECT_DIR$/Libro/Libro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrixBuilder/MatrixBuilder.iml" filepath="$PROJECT_DIR$/MatrixBuilder/MatrixBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-320.iml" filepath="$PROJECT_DIR$/Modulo-320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimesCounter/PrimesCounter.iml" filepath="$PROJECT_DIR$/PrimesCounter/PrimesCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadratoNumeri/QuadratoNumeri.iml" filepath="$PROJECT_DIR$/QuadratoNumeri/QuadratoNumeri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rettangolo_eseClasse/Rettangolo_eseClasse.iml" filepath="$PROJECT_DIR$/Rettangolo_eseClasse/Rettangolo_eseClasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquarePrinter/SquarePrinter.iml" filepath="$PROJECT_DIR$/SquarePrinter/SquarePrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studente/Studente.iml" filepath="$PROJECT_DIR$/Studente/Studente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabellaVoti/TabellaVoti.iml" filepath="$PROJECT_DIR$/TabellaVoti/TabellaVoti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VowelsFinder/VowelsFinder.iml" filepath="$PROJECT_DIR$/VowelsFinder/VowelsFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lineprinter_/lineprinter_.iml" filepath="$PROJECT_DIR$/lineprinter_/lineprinter_.iml" />
+    </modules>
+  </component>
+</project>
