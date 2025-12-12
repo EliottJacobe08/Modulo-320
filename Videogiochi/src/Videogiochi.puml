@@ -1,0 +1,43 @@
+@startuml
+skinparam ClassAttributeIconSize 0
+
+' ===== CLASSI =====
+class Videogioco {
+    -String titolo
+    -List<Sviluppatore> sviluppatori
+    -float prezzo
+    -boolean stato
+    +Videogioco(String titolo, float prezzo, boolean stato)
+    +void aggiungiSviluppatore(Sviluppatore s)
+    +void rimuoviSviluppatore(Sviluppatore s)
+    +String toString()
+}
+
+class Sviluppatore {
+    -String nome
+    -String cognome
+    +Sviluppatore(String nome, String cognome)
+    +String toString()
+}
+
+class Negozio {
+    -String nomeNegozio
+    -List<Videogioco> catalogo
+    +Negozio(String nomeNegozio)
+    +void aggiungiVideogioco(Videogioco v)
+    +void rimuoviVideogioco(Videogioco v)
+    +List<Videogioco> getVideogiochi()
+}
+
+class Program {
+    +void main(String[] args)
+}
+
+' ===== RELAZIONI =====
+Videogioco *-- "0..*" Sviluppatore : sviluppato da >
+Negozio *-- "0..*" Videogioco : contiene >
+Program --> Negozio
+Program --> Videogioco
+Program --> Sviluppatore
+
+@enduml
